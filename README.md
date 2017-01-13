@@ -6,8 +6,8 @@
 **[CMS](#cms)**  
 **[Mobile](#mobile)**  
 **[Servidores](#servidores)**  
-**[Edição de imagem e vídeo](#edi%C3%A7%C3%A3o-de-imagem-e-v%C3%ADdeo)**  
-**[Modelagem 3d](#modelagem-3d)**  
+**[Edição de imagem e vídeo](#ediÇÃo-de-imagem-e-vÍdeo)**  
+**[Modelagem 3D](#modelagem-3d)**  
 **[Desenvolvimento de games](#desenvolvimento-de-games)**  
 
 ---
