@@ -38,7 +38,7 @@
 
 *[Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## BACKEND  
 
@@ -58,7 +58,7 @@
 
 *[Curso de Grunt (16 aulas)(inglês)](https://goo.gl/8KZskT)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## FRAMEWORKS DE PHP 
 
@@ -69,7 +69,7 @@
 *[Curso de Zend 2 (29 aulas)](https://goo.gl/nDkesr)*  
 
 *[Curso de Zend 3 (13 aulas)(inglês)](https://goo.gl/N1PBQV)*  
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## BANCO DE DADOS  
 
@@ -77,7 +77,7 @@
 
 *[Curso de MongoDB (9 aulas)](https://goo.gl/xc1LAo)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## CMS 
 
@@ -103,7 +103,7 @@
 
 *[Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês)](https://goo.gl/99NW2O)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## MOBILE 
 
@@ -127,7 +127,7 @@
 
 *[Curso de Interfaces Responsivas com Sencha Touch (6 aulas)](https://goo.gl/JktVlX)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## SERVIDORES 
 
@@ -153,7 +153,7 @@
 
 *[Curso de htacess (13 aulas)(inglês)](https://goo.gl/ErdcdH)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## EDIÇÃO DE IMAGEM E VÍDEO 
 
@@ -173,7 +173,7 @@
 
 *[Curso de Vegas Pro 13 (34 aulas)](https://goo.gl/7LVIV3)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## MODELAGEM 3D 
 
@@ -185,7 +185,7 @@
 
 *[Curso de SketchUp (48 aulas)](https://goo.gl/ksMwfO)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
+[:top:](#sumário)
 
 ## DESENVOLVIMENTO DE GAMES 
 
@@ -197,6 +197,4 @@
 
 *[Curso Recriando o Flappy Bird com Unity 3D (12 aulas)](https://goo.gl/1sufMv)*  
 
-[:top:](#sum%C3%A1rio%0D%0A)
-
-MIT @ David Alves de Souza
+[:top:](#sumário)
