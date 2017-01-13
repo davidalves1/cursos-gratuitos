@@ -1,4 +1,4 @@
-# Cursos
+# Sumário
 
 **[Frontend](#frontend)**  
 **[Backend](#backend)**  
@@ -6,7 +6,7 @@
 **[CMS](#cms)**  
 **[Mobile](#mobile)**  
 **[Servidores](#servidores)**  
-**[Edição de imagem e vídeo](#ediÇÃo-de-imagem-e-vÍdeo)**  
+**[Edição de imagem e vídeo](#edi%C3%A7%C3%A3o-de-imagem-e-v%C3%ADdeo)**  
 **[Modelagem 3d](#modelagem-3d)**  
 **[Desenvolvimento de games](#desenvolvimento-de-games)**  
 
@@ -38,7 +38,7 @@
 
 *[Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt)*  
 
-[:top:](#cursos-gratuitos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## BACKEND  
 
@@ -58,7 +58,7 @@
 
 *[Curso de Grunt (16 aulas)(inglês)](https://goo.gl/8KZskT)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## FRAMEWORKS DE PHP 
 
@@ -69,7 +69,7 @@
 *[Curso de Zend 2 (29 aulas)](https://goo.gl/nDkesr)*  
 
 *[Curso de Zend 3 (13 aulas)(inglês)](https://goo.gl/N1PBQV)*  
-[:top:](#cursos-gratuitos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## BANCO DE DADOS  
 
@@ -77,7 +77,7 @@
 
 *[Curso de MongoDB (9 aulas)](https://goo.gl/xc1LAo)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## CMS 
 
@@ -103,7 +103,7 @@
 
 *[Curso de Desenvolvimento de Módulos para o Drupal 7 (11 aulas)(inglês)](https://goo.gl/99NW2O)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## MOBILE 
 
@@ -127,7 +127,7 @@
 
 *[Curso de Interfaces Responsivas com Sencha Touch (6 aulas)](https://goo.gl/JktVlX)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## SERVIDORES 
 
@@ -153,7 +153,7 @@
 
 *[Curso de htacess (13 aulas)(inglês)](https://goo.gl/ErdcdH)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## EDIÇÃO DE IMAGEM E VÍDEO 
 
@@ -173,7 +173,7 @@
 
 *[Curso de Vegas Pro 13 (34 aulas)](https://goo.gl/7LVIV3)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## MODELAGEM 3D 
 
@@ -185,7 +185,7 @@
 
 *[Curso de SketchUp (48 aulas)](https://goo.gl/ksMwfO)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 ## DESENVOLVIMENTO DE GAMES 
 
@@ -197,6 +197,6 @@
 
 *[Curso Recriando o Flappy Bird com Unity 3D (12 aulas)](https://goo.gl/1sufMv)*  
 
-[:top:](#cursos)
+[:top:](#sum%C3%A1rio%0D%0A)
 
 MIT @ David Alves de Souza
