@@ -12,7 +12,7 @@
 
 ---
 
-## FRONTEND 
+## FRONTEND
 
 *[Curso Completo de HTML5 (42 aulas)](https://goo.gl/SD4p4g)*  
 
@@ -32,11 +32,17 @@
 
 *[Curso completo de Javascript (46 aulas)](https://goo.gl/zfjfkQ)*  
 
+*[Curso ES6 (5 aulas)](https://goo.gl/Ki821l)*  
+
 *[Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7)*  
 
 *[Curso de Angular (17 aulas)](https://goo.gl/6rT9ZC)*  
 
 *[Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt)*  
+
+*[Curso de Angular 2.x e 4.x (81 aulas)](https://goo.gl/Fs8dJl)*  
+
+*[Curso de Vue.JS (10 aulas)](https://goo.gl/G20lbo)*  
 
 [:top:](#cursos)
 
@@ -48,6 +54,8 @@
 
 *[Curso de NodeJS (21 aulas)](https://goo.gl/6kGFk6)*  
 
+*[Fundamentos Ext JS 4 (48 aulas)](https://goo.gl/Zo5MQl)*  
+
 *[Curso de Aplicações Web Ricas com ExtJS (44 aulas)](https://goo.gl/tMZDvv)*  
 
 *[Curso de Ruby (15 aulas)](https://goo.gl/LcHcn4)*  
@@ -56,11 +64,17 @@
 
 *[Curso de Gulp (11 aulas)(inglês)](https://goo.gl/dgs7On)*  
 
-*[Curso de Grunt (16 aulas)(inglês)](https://goo.gl/8KZskT)*  
+*[Curso de Grunt (16 aulas)(inglês)](https://goo.gl/8KZskT)*
+
+*[Curso de Java Básico (68 aulas)](https://goo.gl/wfkQIB)*
+
+*[Curso de Java Intermediário (42 aulas)](https://goo.gl/ua1p8q)*
+
+*[Estrutura de Dados e Algoritmos com Java (40 aulas)](https://goo.gl/6V94eo)*
 
 [:top:](#cursos)
 
-## FRAMEWORKS DE PHP 
+## FRAMEWORKS DE PHP
 
 *[Curso de Laravel (23 aulas)](https://goo.gl/C8RaxI)*  
 
@@ -79,7 +93,7 @@
 
 [:top:](#cursos)
 
-## CMS 
+## CMS
 
 *[Curso Básico de Wordpress (34 aulas)](https://goo.gl/VTa3aV)*  
 
@@ -105,7 +119,7 @@
 
 [:top:](#cursos)
 
-## MOBILE 
+## MOBILE
 
 *[Curso de Desenvolvimento de Apps para Android (30 aulas)](https://goo.gl/btlCUv)*  
 
@@ -127,9 +141,11 @@
 
 *[Curso de Interfaces Responsivas com Sencha Touch (6 aulas)](https://goo.gl/JktVlX)*  
 
+*[Phonegap e Apache Cordova (34)](https://goo.gl/gzJOnn)*
+
 [:top:](#cursos)
 
-## SERVIDORES 
+## SERVIDORES
 
 *[Curso Básico de GIT (8 aulas)](https://goo.gl/OSdCBS)*  
 
@@ -142,7 +158,7 @@
 *[Curso Completo de Linux Ubuntu (81 aulas)](https://goo.gl/rPpgkl)*  
 
 *[Curso Completo de Servidor Linux Debian (35 aulas)](https://goo.gl/sNk7xU)*  
-  
+
 *[Curso Avançado de Linux Ubuntu - Comandos no Terminal (15 aulas)](https://goo.gl/KA6S70)*  
 
 *[Curso de Windows Server 2016 (15 aulas)](https://goo.gl/WnnYqX)*  
@@ -155,7 +171,7 @@
 
 [:top:](#cursos)
 
-## EDIÇÃO DE IMAGEM E VÍDEO 
+## EDIÇÃO DE IMAGEM E VÍDEO
 
 *[Curso de Adobe Photoshop CC (53 aulas)](https://goo.gl/sfmOIo)*  
 
@@ -175,7 +191,7 @@
 
 [:top:](#cursos)
 
-## MODELAGEM 3D 
+## MODELAGEM 3D
 
 *[Curso de Blender 3D (17 aulas)](https://goo.gl/EvPg7s)*  
 
@@ -187,7 +203,7 @@
 
 [:top:](#cursos)
 
-## DESENVOLVIMENTO DE GAMES 
+## DESENVOLVIMENTO DE GAMES
 
 *[Curso Básico de CryEngine (20 aulas)](https://goo.gl/EcxNi8)*  
 
