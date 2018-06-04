@@ -40,7 +40,7 @@
 
 *[Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt)*  
 
-*[Curso de Angular 2.x e 4.x (81 aulas)](https://goo.gl/Fs8dJl)*  
+*[Curso de Angular 2+ (Inglês) (14 aulas)](https://goo.gl/oiHarQ)*  
 
 *[Curso de Vue.JS (10 aulas)](https://goo.gl/G20lbo)*  
 
