@@ -44,6 +44,8 @@
 
 *[Curso de Vue.JS (10 aulas)](https://goo.gl/G20lbo)*  
 
+*[Cursos diversos FrontEnd (Em andamento ao Vivo)](https://www.youtube.com/CollabCode)* 
+
 [:top:](#cursos)
 
 ## BACKEND  
