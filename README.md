@@ -46,6 +46,14 @@
 
 *[Cursos diversos FrontEnd (Em andamento ao Vivo)](https://www.youtube.com/CollabCode)* 
 
+*[Introdução ao HTML](https://www.udemy.com/introducao-a-linguagem-html/)*
+
+*[Introdução ao CSS](https://www.udemy.com/introducao-a-linguagem-css/)*
+
+*[Introdução ao Javascript](https://www.udemy.com/introducao-a-linguagem-javascript/)*
+
+*[Introdução ao JQuery](https://www.udemy.com/introducao-ao-jquery/)*
+
 [:top:](#cursos)
 
 ## BACKEND  
