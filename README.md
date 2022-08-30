@@ -42,7 +42,9 @@
 
 *[Curso de Angular 2+ (Inglês) (14 aulas)](https://goo.gl/oiHarQ)*  
 
-*[Curso de Vue.JS (10 aulas)](https://goo.gl/G20lbo)*  
+*[Curso de Vue.js (10 aulas)](https://goo.gl/G20lbo)*  
+
+*[Curso completo Vue.js 3  - Do básico ao avançado (VueJS Brasil)](https://treinamento.vuejsbrasil.org/)*  
 
 *[Cursos diversos FrontEnd (Em andamento ao Vivo)](https://www.youtube.com/CollabCode)* 
 
